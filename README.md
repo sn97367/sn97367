@@ -1,18 +1,78 @@
-# About Me:
-I’m currently based on Bangalore<br><br>Currently studying my second year at Manipal University Jaipur<br><br>Transforming ideas into impactful technology products with precision and vision.<br><br>You can reach me at sn97367@gmail.com
+<div align="center">
 
+<h1 style="color:#c77dff; text-shadow:0 0 20px #9d4edd, 0 0 40px #b5179e;">⚡ Nithish Senguttuvan ⚡</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithish_796) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-senguttuvan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SNithish29992) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sn97367@gmail.com) 
+<h3 style="color:#e0aaff; text-shadow:0 0 15px #9d4edd;">Transforming ideas into impactful technology products with precision and vision.</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sn97367&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sn97367&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sn97367&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+### 🌍 **About Me**
+<div style="border:2px solid #9d4edd; border-radius:10px; padding:15px; background:rgba(40,0,60,0.3); box-shadow:0 0 20px #9d4edd;">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🏙️ Based in **Bangalore, India** <br>
+🎓 Second-year student at **Manipal University Jaipur** <br>
+💡 Passionate about building tech that merges creativity and logic. <br><br>
+📧 Reach me at: **[sn97367@gmail.com](mailto:sn97367@gmail.com)**  
+
+</div>
+
+---
+
+### 🌐 **Socials**
+<div style="border:2px solid #c77dff; border-radius:10px; padding:10px; background:rgba(30,0,50,0.4); box-shadow:0 0 15px #c77dff;">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithish_796)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-senguttuvan)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SNithish29992)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sn97367@gmail.com)
+
+</div>
+
+---
+
+### 💻 **Tech Stack**
+<div style="border:2px solid #b5179e; border-radius:10px; padding:10px; background:rgba(50,0,70,0.3); box-shadow:0 0 25px #9d4edd;">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+---
+
+### 📊 **GitHub Stats**
+<div style="border:2px solid #7b2cbf; border-radius:10px; padding:15px; background:rgba(40,0,60,0.2); box-shadow:0 0 30px #b5179e;">
+
+![](https://github-readme-stats.vercel.app/api?username=sn97367&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sn97367&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sn97367&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+### ✍️ **Random Dev Quote**
+<div style="border:2px solid #c77dff; border-radius:10px; padding:10px; background:rgba(20,0,40,0.5); box-shadow:0 0 20px #c77dff;">
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+</div>
+
+---
+
+<h3 style="color:#c77dff;">💫 Crafted with ⚡ Passion & Code ⚡</h3>
+<sub style="color:#9d4edd;">Proudly created with <a href="https://gprm.itsvg.in" style="color:#e0aaff;">GPRM</a></sub>
+
+</div>
