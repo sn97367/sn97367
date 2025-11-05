@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently based on Bangalore<br><br>Currently studying my second year at Manipal University Jaipur<br><br>Transforming ideas into impactful technology products with precision and vision.<br><br>You can reach me at sn97367@gmail.com
 
 
